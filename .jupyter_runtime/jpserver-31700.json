@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 31700,
+  "port": 8888,
+  "root_dir": "C:\\Users\\DONIZET\\analisis-ventas",
+  "secure": false,
+  "sock": "",
+  "token": "9411057d2e700e8949b2cdb6db8b6084f9ed0b7553a8dbf3",
+  "url": "http://localhost:8888/",
+  "version": "2.21.1"
+}

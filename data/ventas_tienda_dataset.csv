@@ -1,0 +1,503 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,vendedor,distrito,metodo_pago
+1,2025-02-27,Tubo PVC,Plomería,1.0,14.5,María,Santa Anita,Efectivo
+2,2025-02-22,Tornillos (paquete),Fijaciones,11.0,8.9,Ana,San Luis,Efectivo
+3,2025-02-17,Martillo,Herramientas,4.0,18.5,Luis,Ate,Transferencia
+4,2025-10-07,Pintura blanca 1 galón,Pinturas,7.0,65.0,Luis,San Luis,Transferencia
+5,2025-01-04,Brocha 3 pulgadas,Pinturas,3.0,12.5,Carlos,La Molina,Tarjeta
+6,2025-04-21,Tornillos (paquete),Fijaciones,6.0,8.9,Ana,Ate,Tarjeta
+7,2025-07-03,Taladro,Herramientas,6.0,185.0,María,Ate,Transferencia
+8,2025-10-02,Candado,Seguridad,2.0,24.0,Carlos,Ate,Transferencia
+9,2025-07-05,Brocha 3 pulgadas,Pinturas,10.0,12.5,Luis,Ate,Efectivo
+10,2025-04-27,Tubo PVC,Plomería,5.0,14.5,Ana,Santa Anita,Efectivo
+11,2025-05-23,Foco LED,Electricidad,8.0,9.9,María,Santa Anita,Tarjeta
+12,2025-04-18,Cable eléctrico 10 m,Electricidad,11.0,32.0,María,Ate,Transferencia
+13,2025-03-29,Tubo PVC,Plomería,9.0,14.5,Luis,Santa Anita,Tarjeta
+14,2025-05-19,Foco LED,Electricidad,11.0,9.9,Luis,La Molina,Efectivo
+15,2025-01-17,Pintura blanca 1 galón,Pinturas,6.0,65.0,Carlos,La Molina,Efectivo
+16,2025-10-18,Pintura blanca 1 galón,Pinturas,12.0,65.0,María,Santa Anita,
+17,2025-07-22,Candado,Seguridad,,24.0,Carlos,Santa Anita,Tarjeta
+18,2025-05-07,Tornillos (paquete),Fijaciones,12.0,8.9,María,San Luis,Transferencia
+19,2025-07-05,Foco LED,Electricidad,4.0,9.9,Luis,San Luis,Efectivo
+20,2025-02-26,Martillo,Herramientas,3.0,18.5,Luis,San Luis,Transferencia
+21,2025-07-17,Taladro,Herramientas,7.0,185.0,Carlos,La Molina,Transferencia
+22,2025-02-28,Martillo,Herramientas,11.0,18.5,María,La Molina,Efectivo
+23,2025-08-11,Brocha 3 pulgadas,Pinturas,3.0,12.5,Carlos,Ate,Transferencia
+24,2025-05-15,Grifo,Plomería,9.0,48.0,Luis,Ate,Transferencia
+25,2025-09-17,Brocha 3 pulgadas,Pinturas,10.0,12.5,Luis,Santa Anita,Tarjeta
+26,2025-10-04,Tornillos (paquete),Fijaciones,9.0,8.9,Ana,La Molina,Tarjeta
+27,2025-02-27,Martillo,Herramientas,6.0,18.5,María,Santa Anita,Efectivo
+28,2025-10-18,Pintura blanca 1 galón,Pinturas,2.0,65.0,Ana,San Luis,Efectivo
+29,2025-03-06,Cinta métrica,Herramientas,3.0,15.0,Carlos,Santa Anita,Tarjeta
+30,2025-08-05,Cinta métrica,Herramientas,4.0,15.0,Luis,La Molina,Tarjeta
+31,2025-07-11,Tubo PVC,Plomería,8.0,14.5,Carlos,Ate,Efectivo
+32,2025-02-02,Pintura blanca 1 galón,Pinturas,6.0,65.0,Ana,Santa Anita,Transferencia
+33,2025-01-04,Pintura blanca 1 galón,Pinturas,2.0,65.0,Ana,Santa Anita,Efectivo
+34,2025-06-19,Martillo,Herramientas,2.0,18.5,Luis,La Molina,Transferencia
+35,2025-04-20,Candado,Seguridad,9.0,24.0,Luis,San Luis,Efectivo
+36,2025-07-28,Candado,Seguridad,4.0,24.0,Ana,Ate,Transferencia
+37,2025-07-01,Foco LED,Electricidad,7.0,9.9,Carlos,San Luis,Transferencia
+38,2025-02-20,Martillo,Herramientas,1.0,18.5,Carlos,La Molina,Efectivo
+39,2025-04-09,Pintura blanca 1 galón,Pinturas,4.0,65.0,Carlos,Santa Anita,Tarjeta
+40,2025-05-23,Tornillos (paquete),Fijaciones,8.0,8.9,Luis,Ate,Tarjeta
+41,2025-02-20,Cinta métrica,Herramientas,1.0,15.0,Ana,Ate,Efectivo
+42,2025-07-28,Tornillos (paquete),Fijaciones,8.0,8.9,Carlos,Santa Anita,Tarjeta
+43,2025-03-26,Martillo,Herramientas,7.0,18.5,,San Luis,Tarjeta
+44,2025-05-27,Candado,Seguridad,7.0,24.0,Carlos,Santa Anita,Efectivo
+45,2025-04-22,Brocha 3 pulgadas,Pinturas,1.0,12.5,Ana,La Molina,Efectivo
+46,2025-10-27,Martillo,Herramientas,8.0,18.5,Luis,Ate,Transferencia
+47,2025-04-06,Taladro,Herramientas,2.0,185.0,Ana,Santa Anita,Tarjeta
+48,2025-10-19,Taladro,Herramientas,4.0,185.0,Ana,Ate,Tarjeta
+49,2025-10-26,Tubo PVC,Plomería,10.0,14.5,María,La Molina,Efectivo
+50,2025-06-10,Tubo PVC,Plomería,4.0,14.5,María,San Luis,Efectivo
+51,2025-06-03,Tubo PVC,Plomería,8.0,14.5,María,Ate,Efectivo
+52,2025-10-16,Candado,Seguridad,2.0,24.0,Ana,Santa Anita,Transferencia
+53,2025-03-09,Brocha 3 pulgadas,Pinturas,6.0,12.5,Ana,Santa Anita,Tarjeta
+54,2025-03-22,Brocha 3 pulgadas,Pinturas,8.0,12.5,María,Ate,Transferencia
+55,2025-06-03,Cinta métrica,Herramientas,11.0,15.0,Ana,Santa Anita,Tarjeta
+56,2025-02-24,Taladro,Herramientas,12.0,185.0,Luis,La Molina,Tarjeta
+57,2025-04-18,Llave inglesa,Herramientas,12.0,29.9,María,Santa Anita,Transferencia
+58,2025-05-16,Tubo PVC,Plomería,9.0,14.5,Carlos,La Molina,Efectivo
+59,2025-08-05,Taladro,Herramientas,5.0,185.0,Ana,Ate,Tarjeta
+60,2025-05-15,Tornillos (paquete),Fijaciones,3.0,8.9,Carlos,San Luis,Transferencia
+61,2025-02-27,Martillo,Herramientas,2.0,18.5,Luis,Ate,Tarjeta
+62,2025-10-10,Llave inglesa,Herramientas,3.0,29.9,Carlos,Santa Anita,Efectivo
+63,2025-07-06,Brocha 3 pulgadas,Pinturas,1.0,12.5,María,Santa Anita,Transferencia
+64,2025-02-22,Pintura blanca 1 galón,Pinturas,6.0,65.0,Carlos,Santa Anita,Efectivo
+65,2025-04-01,Tornillos (paquete),Fijaciones,7.0,8.9,Ana,Santa Anita,Transferencia
+66,2025-07-30,Cable eléctrico 10 m,Electricidad,11.0,32.0,Luis,La Molina,Efectivo
+67,2025-02-25,Grifo,Plomería,7.0,48.0,Ana,San Luis,Efectivo
+68,2025-08-24,Pintura blanca 1 galón,Pinturas,6.0,65.0,María,Santa Anita,Efectivo
+69,2025-04-09,Martillo,Herramientas,7.0,18.5,María,La Molina,Efectivo
+70,2025-06-29,Brocha 3 pulgadas,Pinturas,11.0,12.5,Carlos,La Molina,Efectivo
+71,2025-05-14,Taladro,Herramientas,3.0,185.0,María,Ate,Efectivo
+72,2025-08-11,Llave inglesa,Herramientas,6.0,29.9,María,San Luis,Transferencia
+73,2025-03-01,Cinta métrica,Herramientas,7.0,15.0,Luis,La Molina,Efectivo
+74,2025-08-12,Grifo,Plomería,1.0,48.0,Luis,La Molina,Tarjeta
+75,2025-06-19,Taladro,Herramientas,10.0,185.0,María,Ate,Transferencia
+76,2025-09-17,Brocha 3 pulgadas,Pinturas,5.0,12.5,Carlos,La Molina,Tarjeta
+77,2025-06-01,Grifo,Plomería,9.0,48.0,Luis,Santa Anita,Tarjeta
+78,2025-07-14,Tubo PVC,Plomería,11.0,14.5,Luis,La Molina,Tarjeta
+79,2025-01-01,Cinta métrica,Herramientas,5.0,15.0,María,Santa Anita,Tarjeta
+80,2025-06-14,Llave inglesa,Herramientas,8.0,29.9,Carlos,San Luis,Transferencia
+81,2025-09-19,Pintura blanca 1 galón,Pinturas,8.0,65.0,Luis,Ate,Tarjeta
+82,2025-06-21,Cinta métrica,Herramientas,2.0,15.0,Luis,La Molina,Efectivo
+83,2025-03-17,Pintura blanca 1 galón,Pinturas,1.0,65.0,Ana,Santa Anita,Tarjeta
+84,2025-02-07,Llave inglesa,Herramientas,8.0,29.9,Carlos,Santa Anita,Transferencia
+85,2025-07-16,Grifo,Plomería,8.0,48.0,Carlos,Santa Anita,Efectivo
+86,2025-01-03,Tubo PVC,Plomería,2.0,14.5,,Santa Anita,Efectivo
+87,2025-09-23,grifo,Plomería,8.0,48.0,Ana,Santa Anita,Efectivo
+88,2025-03-10,Candado,Seguridad,8.0,24.0,María,San Luis,Transferencia
+89,2025-09-16,Grifo,Plomería,7.0,48.0,Carlos,Santa Anita,Transferencia
+90,2025-08-19,Candado,Seguridad,5.0,24.0,Luis,La Molina,Transferencia
+91,2025-05-03,Candado,Seguridad,5.0,24.0,Carlos,Ate,Transferencia
+92,2025-05-01,Brocha 3 pulgadas,Pinturas,5.0,12.5,María,La Molina,Transferencia
+93,2025-03-12,Taladro,Herramientas,3.0,185.0,Luis,San Luis,Transferencia
+94,2025-04-20,Tornillos (paquete),Fijaciones,2.0,8.9,Carlos,San Luis,Tarjeta
+95,2025-08-27,Cinta métrica,Herramientas,7.0,15.0,Ana,Santa Anita,Tarjeta
+96,2025-10-27,Foco LED,Electricidad,12.0,9.9,Ana,San Luis,Tarjeta
+97,2025-06-30,Martillo,Herramientas,5.0,18.5,Carlos,San Luis,Transferencia
+98,2025-10-07,Grifo,Plomería,10.0,48.0,Luis,San Luis,Efectivo
+99,2025-08-12,Brocha 3 pulgadas,Pinturas,8.0,12.5,Ana,San Luis,Tarjeta
+100,2025-07-27,Tubo PVC,Plomería,12.0,14.5,Luis,San Luis,Efectivo
+101,2025-10-01,Llave inglesa,Herramientas,1.0,29.9,Carlos,Ate,Efectivo
+102,2025-08-08,Tubo PVC,Plomería,3.0,14.5,Carlos,Santa Anita,Efectivo
+103,2025-07-14,Brocha 3 pulgadas,Pinturas,6.0,12.5,Luis,San Luis,Tarjeta
+104,2025-07-14,Cable eléctrico 10 m,Electricidad,5.0,32.0,Carlos,La Molina,Efectivo
+105,2025-01-10,Candado,Seguridad,12.0,24.0,Ana,La Molina,Efectivo
+106,2025-02-05,Tubo PVC,Plomería,11.0,14.5,Ana,Ate,Efectivo
+107,2025-01-11,Pintura blanca 1 galón,Pinturas,10.0,65.0,Luis,Santa Anita,Efectivo
+108,2025-02-28,Candado,Seguridad,10.0,24.0,Luis,San Luis,Transferencia
+109,2025-07-08,Brocha 3 pulgadas,Pinturas,3.0,12.5,Ana,Santa Anita,Tarjeta
+110,2025-10-24,Taladro,Herramientas,1.0,185.0,María,San Luis,Tarjeta
+111,2025-04-12,Grifo,Plomería,2.0,48.0,Luis,Ate,Transferencia
+112,2025-03-03,Brocha 3 pulgadas,Pinturas,10.0,12.5,Ana,La Molina,Transferencia
+113,2025-07-09,Foco LED,Electricidad,2.0,9.9,María,Ate,
+114,2025-02-24,Candado,Seguridad,7.0,24.0,María,San Luis,Transferencia
+115,2025-08-11,Tornillos (paquete),Fijaciones,3.0,8.9,María,San Luis,Tarjeta
+116,2025-05-18,Foco LED,Electricidad,,9.9,Luis,Ate,Tarjeta
+117,2025-05-05,Candado,Seguridad,8.0,24.0,Carlos,La Molina,Efectivo
+118,2025-06-16,Candado,Seguridad,3.0,24.0,Carlos,Santa Anita,Tarjeta
+119,2025-06-24,Brocha 3 pulgadas,Pinturas,5.0,12.5,María,Ate,Transferencia
+120,2025-02-13,Pintura blanca 1 galón,Pinturas,4.0,65.0,Carlos,San Luis,Transferencia
+121,2025-09-01,Pintura blanca 1 galón,Pinturas,11.0,65.0,Carlos,San Luis,Efectivo
+122,2025-05-31,Taladro,Herramientas,4.0,185.0,Carlos,Santa Anita,Tarjeta
+123,2025-10-25,Tubo PVC,Plomería,6.0,14.5,Carlos,La Molina,Tarjeta
+124,2025-10-09,Grifo,Plomería,6.0,48.0,María,San Luis,Tarjeta
+125,2025-05-09,Brocha 3 pulgadas,Pinturas,4.0,12.5,Ana,Santa Anita,Tarjeta
+126,2025-10-02,Taladro,Herramientas,12.0,185.0,Luis,Santa Anita,Efectivo
+127,2025-09-05,Grifo,Plomería,5.0,48.0,María,Ate,Efectivo
+128,2025-04-27,Brocha 3 pulgadas,Pinturas,6.0,12.5,Luis,La Molina,Efectivo
+129,2025-10-01,Grifo,Plomería,3.0,48.0,María,Ate,Efectivo
+130,2025-05-30,Cinta métrica,Herramientas,12.0,15.0,Luis,San Luis,Efectivo
+131,2025-10-21,Martillo,Herramientas,5.0,18.5,Carlos,San Luis,Tarjeta
+132,2025-04-05,Cable eléctrico 10 m,Electricidad,1.0,32.0,María,San Luis,Efectivo
+133,2025-07-25,Taladro,Herramientas,8.0,185.0,Ana,Ate,Efectivo
+134,2025-10-16,Tornillos (paquete),Fijaciones,5.0,8.9,Ana,Santa Anita,Efectivo
+135,2025-08-02,Cinta métrica,Herramientas,10.0,15.0,Luis,San Luis,Tarjeta
+136,2025-06-02,Candado,Seguridad,10.0,24.0,Carlos,La Molina,Transferencia
+137,2025-01-31,Llave inglesa,Herramientas,10.0,29.9,Ana,Santa Anita,Transferencia
+138,2025-05-16,Pintura blanca 1 galón,Pinturas,11.0,65.0,Ana,Santa Anita,Efectivo
+139,2025-10-10,Tornillos (paquete),Fijaciones,2.0,8.9,Luis,Ate,Tarjeta
+140,2025-08-29,Candado,Seguridad,5.0,24.0,Ana,Santa Anita,Tarjeta
+141,2025-05-25,Grifo,Plomería,,48.0,Carlos,Ate,Transferencia
+142,2025-05-16,Pintura blanca 1 galón,Pinturas,11.0,65.0,Luis,San Luis,Efectivo
+143,2025-04-26,Cinta métrica,Herramientas,11.0,15.0,Luis,La Molina,Efectivo
+144,2025-01-31,Taladro,Herramientas,3.0,185.0,María,La Molina,Tarjeta
+145,2025-08-28,Taladro,Herramientas,12.0,185.0,María,San Luis,Tarjeta
+146,2025-10-04,Cinta métrica,Herramientas,8.0,15.0,Carlos,Ate,Transferencia
+147,2025-08-10,Martillo,Herramientas,12.0,18.5,María,La Molina,Efectivo
+148,2025-04-28,taladro,Herramientas,11.0,185.0,Ana,La Molina,Transferencia
+149,2025-03-31,Martillo,Herramientas,8.0,18.5,Carlos,La Molina,Efectivo
+150,2025-08-12,Llave inglesa,Herramientas,,29.9,Carlos,Ate,Tarjeta
+151,2025-07-29,Cable eléctrico 10 m,Electricidad,6.0,32.0,María,Ate,Efectivo
+152,2025-07-30,Cable eléctrico 10 m,Electricidad,12.0,32.0,Carlos,La Molina,Transferencia
+153,2025-10-09,Foco LED,Electricidad,1.0,9.9,Carlos,Ate,Tarjeta
+154,2025-06-15,Brocha 3 pulgadas,Pinturas,2.0,12.5,Carlos,Ate,Transferencia
+155,2025-08-25,Cinta métrica,Herramientas,7.0,15.0,Ana,Santa Anita,Transferencia
+156,2025-09-13,Cable eléctrico 10 m,Electricidad,11.0,32.0,Carlos,Ate,Efectivo
+157,2025-10-09,Brocha 3 pulgadas,Pinturas,3.0,12.5,María,San Luis,Transferencia
+158,2025-03-04,Candado,Seguridad,1.0,24.0,Luis,Santa Anita,Tarjeta
+159,2025-01-08,Cinta métrica,Herramientas,9.0,15.0,Carlos,Ate,Efectivo
+160,2025-08-25,Taladro,Herramientas,2.0,185.0,Luis,San Luis,Transferencia
+161,2025-09-18,Brocha 3 pulgadas,Pinturas,12.0,12.5,María,San Luis,Tarjeta
+162,2025-05-05,Candado,Seguridad,8.0,24.0,Luis,San Luis,Efectivo
+163,2025-09-18,Llave inglesa,Herramientas,12.0,29.9,Luis,Ate,Tarjeta
+164,2025-06-24,Foco LED,Electricidad,9.0,9.9,María,Ate,Tarjeta
+165,2025-06-02,Grifo,Plomería,10.0,48.0,Carlos,Santa Anita,Tarjeta
+166,2025-09-05,Cinta métrica,Herramientas,6.0,15.0,María,San Luis,Tarjeta
+167,2025-04-07,Cable eléctrico 10 m,Electricidad,12.0,32.0,Luis,San Luis,Efectivo
+168,2025-01-23,Foco LED,Electricidad,6.0,9.9,Carlos,San Luis,Tarjeta
+169,2025-03-19,Tubo PVC,Plomería,8.0,14.5,Ana,Santa Anita,Transferencia
+170,2025-06-19,Llave inglesa,Herramientas,2.0,29.9,Carlos,Ate,Transferencia
+171,2025-01-08,Candado,Seguridad,12.0,24.0,Luis,San Luis,Transferencia
+172,2025-02-08,Tornillos (paquete),Fijaciones,8.0,8.9,María,La Molina,Transferencia
+173,2025-07-23,Grifo,Plomería,11.0,48.0,Ana,La Molina,Transferencia
+174,2025-07-14,Cinta métrica,Herramientas,6.0,15.0,Carlos,Ate,Transferencia
+175,2025-05-01,Taladro,Herramientas,11.0,185.0,María,Santa Anita,Transferencia
+176,2025-08-11,Taladro,Herramientas,2.0,185.0,Ana,San Luis,Efectivo
+177,2025-06-03,Grifo,Plomería,1.0,48.0,Ana,La Molina,Efectivo
+178,2025-07-03,Brocha 3 pulgadas,Pinturas,6.0,12.5,Carlos,Santa Anita,Efectivo
+179,2025-07-30,Cinta métrica,Herramientas,10.0,15.0,Luis,Santa Anita,Efectivo
+180,2025-07-15,Taladro,Herramientas,10.0,185.0,Luis,San Luis,Transferencia
+181,2025-04-29,Tornillos (paquete),Fijaciones,8.0,8.9,María,San Luis,Tarjeta
+182,2025-01-05,Tubo PVC,Plomería,8.0,14.5,María,Santa Anita,Efectivo
+183,2025-06-26,Candado,Seguridad,10.0,24.0,María,San Luis,Transferencia
+184,2025-08-22,Brocha 3 pulgadas,Pinturas,5.0,12.5,Luis,San Luis,Tarjeta
+185,2025-05-02,Taladro,Herramientas,7.0,185.0,María,La Molina,Transferencia
+186,2025-01-12,Brocha 3 pulgadas,Pinturas,11.0,12.5,Carlos,La Molina,Efectivo
+187,2025-01-26,Llave inglesa,Herramientas,10.0,29.9,Carlos,La Molina,Efectivo
+188,2025-06-30,Llave inglesa,Herramientas,4.0,29.9,Luis,La Molina,Transferencia
+189,2025-03-12,Grifo,Plomería,11.0,48.0,Ana,Ate,Tarjeta
+190,2025-01-18,Candado,Seguridad,10.0,24.0,María,Santa Anita,Efectivo
+191,2025-06-17,Brocha 3 pulgadas,Pinturas,12.0,12.5,Carlos,Santa Anita,Efectivo
+192,2025-10-04,Tornillos (paquete),Fijaciones,6.0,8.9,María,Santa Anita,Tarjeta
+193,2025-06-01,Candado,Seguridad,12.0,24.0,María,Ate,Tarjeta
+194,2025-03-14,Taladro,Herramientas,4.0,185.0,Carlos,La Molina,Efectivo
+195,2025-01-08,Foco LED,Electricidad,5.0,9.9,Ana,San Luis,Tarjeta
+196,2025-05-15,Tubo PVC,Plomería,10.0,14.5,Carlos,La Molina,Efectivo
+197,2025-04-30,Tubo PVC,Plomería,8.0,14.5,Ana,La Molina,Transferencia
+198,2025-02-02,Pintura blanca 1 galón,Pinturas,11.0,65.0,Carlos,La Molina,Transferencia
+199,2025-03-01,Foco LED,Electricidad,3.0,9.9,Ana,Ate,Tarjeta
+200,2025-03-01,Candado,Seguridad,2.0,24.0,Luis,Santa Anita,Tarjeta
+201,2025-07-09,Candado,Seguridad,11.0,24.0,Carlos,Santa Anita,Tarjeta
+202,2025-02-20,Tubo PVC,Plomería,8.0,14.5,Carlos,La Molina,Efectivo
+203,2025-07-09,Grifo,Plomería,4.0,48.0,Carlos,San Luis,Efectivo
+204,2025-02-20,Cable eléctrico 10 m,Electricidad,11.0,32.0,María,La Molina,Efectivo
+205,2025-05-22,Foco LED,Electricidad,4.0,9.9,Ana,San Luis,Efectivo
+206,2025-04-19,Tubo PVC,Plomería,11.0,14.5,Ana,Ate,Tarjeta
+207,2025-03-06,Pintura blanca 1 galón,Pinturas,10.0,65.0,Luis,Ate,Transferencia
+208,2025-04-21,Pintura blanca 1 galón,Pinturas,4.0,65.0,María,Santa Anita,Transferencia
+209,2025-05-22,Martillo,Herramientas,3.0,18.5,Luis,La Molina,Efectivo
+210,2025-01-14,Taladro,Herramientas,3.0,185.0,Ana,La Molina,Efectivo
+211,2025-06-15,Llave inglesa,Herramientas,1.0,29.9,Luis,La Molina,Efectivo
+212,2025-08-04,Tornillos (paquete),Fijaciones,9.0,8.9,Ana,Ate,Tarjeta
+213,2025-07-05,Candado,Seguridad,9.0,24.0,,San Luis,Transferencia
+214,2025-01-23,Pintura blanca 1 galón,Pinturas,12.0,65.0,María,San Luis,Transferencia
+215,2025-02-01,Martillo,Herramientas,8.0,18.5,Carlos,San Luis,Transferencia
+216,2025-09-09,Taladro,Herramientas,12.0,185.0,Carlos,Ate,Efectivo
+217,2025-03-17,Cable eléctrico 10 m,Electricidad,2.0,32.0,Luis,La Molina,Transferencia
+218,2025-10-27,Tubo PVC,Plomería,9.0,14.5,María,San Luis,Transferencia
+219,2025-05-31,Cinta métrica,Herramientas,8.0,15.0,Carlos,Ate,Transferencia
+220,2025-10-10,Taladro,Herramientas,12.0,185.0,Luis,San Luis,Tarjeta
+221,2025-07-31,Pintura blanca 1 galón,Pinturas,6.0,65.0,Carlos,San Luis,Tarjeta
+222,2025-02-18,Grifo,Plomería,6.0,48.0,Carlos,La Molina,Transferencia
+223,2025-07-11,Brocha 3 pulgadas,Pinturas,3.0,12.5,Carlos,Ate,Efectivo
+224,2025-02-17,Taladro,Herramientas,7.0,185.0,Ana,La Molina,Efectivo
+225,2025-01-31,Cinta métrica,Herramientas,10.0,15.0,María,Ate,Tarjeta
+226,2025-08-05,Cable eléctrico 10 m,Electricidad,12.0,32.0,Ana,La Molina,Transferencia
+227,2025-06-30,Brocha 3 pulgadas,Pinturas,2.0,12.5,Luis,Santa Anita,Transferencia
+228,2025-04-25,Candado,Seguridad,2.0,24.0,,La Molina,Efectivo
+229,2025-10-21,Brocha 3 pulgadas,Pinturas,4.0,12.5,Carlos,Ate,Transferencia
+230,2025-05-17,Tubo PVC,Plomería,1.0,14.5,Luis,La Molina,Transferencia
+231,2025-06-23,Brocha 3 pulgadas,Pinturas,6.0,12.5,Ana,Santa Anita,Efectivo
+232,2025-07-25,Llave inglesa,Herramientas,2.0,29.9,Luis,Ate,Efectivo
+233,2025-09-29,Grifo,Plomería,4.0,48.0,Carlos,San Luis,Tarjeta
+234,2025-03-22,Cable eléctrico 10 m,Electricidad,6.0,32.0,María,La Molina,Transferencia
+235,2025-02-13,llave inglesa,Herramientas,1.0,29.9,Luis,Santa Anita,Transferencia
+236,2025-02-11,Martillo,Herramientas,5.0,18.5,Carlos,San Luis,Tarjeta
+237,2025-08-15,Llave inglesa,Herramientas,7.0,29.9,María,Santa Anita,Transferencia
+238,2025-06-26,Taladro,Herramientas,7.0,185.0,Ana,La Molina,Transferencia
+239,2025-09-07,Tubo PVC,Plomería,9.0,14.5,María,Ate,Efectivo
+240,2025-01-29,Foco LED,Electricidad,1.0,9.9,Luis,La Molina,Efectivo
+241,2025-05-11,Tornillos (paquete),Fijaciones,5.0,8.9,María,Ate,Efectivo
+242,2025-08-09,Candado,Seguridad,3.0,24.0,Luis,San Luis,Transferencia
+243,2025-04-28,Grifo,Plomería,9.0,48.0,María,Ate,Tarjeta
+244,2025-01-22,Grifo,Plomería,7.0,48.0,Ana,San Luis,Efectivo
+245,2025-10-22,Cable eléctrico 10 m,Electricidad,7.0,32.0,Carlos,San Luis,Tarjeta
+246,2025-07-27,Taladro,Herramientas,1.0,185.0,María,Santa Anita,Transferencia
+247,2025-07-05,Candado,Seguridad,2.0,24.0,Carlos,Ate,Efectivo
+248,2025-07-25,Foco LED,Electricidad,9.0,9.9,Ana,San Luis,Tarjeta
+249,2025-06-23,Grifo,Plomería,4.0,48.0,María,Santa Anita,Efectivo
+250,2025-02-28,Cinta métrica,Herramientas,9.0,15.0,Luis,La Molina,Tarjeta
+251,2025-03-17,Grifo,Plomería,4.0,48.0,,Santa Anita,Tarjeta
+252,2025-03-30,Pintura blanca 1 galón,Pinturas,10.0,65.0,,Ate,Efectivo
+253,2025-09-10,Tubo PVC,Plomería,8.0,14.5,Carlos,La Molina,Transferencia
+254,2025-03-19,Cable eléctrico 10 m,Electricidad,8.0,32.0,Ana,San Luis,Tarjeta
+255,2025-06-05,Tubo PVC,Plomería,5.0,14.5,Ana,La Molina,Transferencia
+256,2025-06-08,Taladro,Herramientas,8.0,185.0,Carlos,Ate,Efectivo
+257,2025-05-27,Cable eléctrico 10 m,Electricidad,2.0,32.0,Ana,San Luis,Tarjeta
+258,2025-10-11,Llave inglesa,Herramientas,12.0,29.9,Ana,San Luis,Transferencia
+259,2025-04-07,Tubo PVC,Plomería,6.0,14.5,Carlos,Santa Anita,Efectivo
+260,2025-02-22,Candado,Seguridad,6.0,24.0,Ana,Santa Anita,Efectivo
+261,2025-08-13,Pintura blanca 1 galón,Pinturas,8.0,65.0,Luis,La Molina,Tarjeta
+262,2025-07-18,Brocha 3 pulgadas,Pinturas,7.0,12.5,María,Ate,Transferencia
+263,2025-06-21,Tubo PVC,Plomería,2.0,14.5,María,Ate,Transferencia
+264,2025-07-17,Tubo PVC,Plomería,5.0,14.5,María,Santa Anita,Tarjeta
+265,2025-10-26,Taladro,Herramientas,11.0,185.0,Luis,La Molina,Tarjeta
+266,2025-07-20,Tubo PVC,Plomería,3.0,14.5,Ana,La Molina,Transferencia
+267,2025-06-18,Foco LED,Electricidad,3.0,9.9,Ana,San Luis,Transferencia
+268,2025-01-10,Cable eléctrico 10 m,Electricidad,6.0,32.0,María,Santa Anita,Efectivo
+269,2025-09-06,Cable eléctrico 10 m,Electricidad,4.0,32.0,Luis,Santa Anita,Efectivo
+270,2025-06-01,Taladro,Herramientas,2.0,185.0,Ana,La Molina,Transferencia
+271,2025-07-12,Tornillos (paquete),Fijaciones,3.0,8.9,Luis,Santa Anita,Transferencia
+272,2025-03-26,Llave inglesa,Herramientas,12.0,29.9,Carlos,Ate,Tarjeta
+273,2025-05-02,Cable eléctrico 10 m,Electricidad,8.0,32.0,María,San Luis,Efectivo
+274,2025-05-03,Cinta métrica,Herramientas,5.0,15.0,Carlos,Santa Anita,Tarjeta
+275,2025-10-20,Tubo PVC,Plomería,8.0,14.5,Carlos,La Molina,Tarjeta
+276,2025-09-28,cinta métrica,Herramientas,7.0,15.0,Luis,Santa Anita,Transferencia
+277,2025-05-09,Tornillos (paquete),Fijaciones,1.0,8.9,Carlos,La Molina,Transferencia
+278,2025-09-22,Taladro,Herramientas,2.0,185.0,María,Ate,Efectivo
+279,2025-08-19,Brocha 3 pulgadas,Pinturas,9.0,12.5,Luis,San Luis,Efectivo
+280,2025-08-19,Pintura blanca 1 galón,Pinturas,6.0,65.0,Ana,San Luis,Efectivo
+281,2025-09-15,Foco LED,Electricidad,6.0,9.9,Luis,San Luis,Efectivo
+282,2025-04-25,Cable eléctrico 10 m,Electricidad,1.0,32.0,María,Ate,Transferencia
+283,2025-06-21,Tubo PVC,Plomería,3.0,14.5,Luis,Ate,Tarjeta
+284,2025-03-13,Candado,Seguridad,12.0,24.0,Carlos,San Luis,Transferencia
+285,2025-02-10,Martillo,Herramientas,1.0,18.5,María,Santa Anita,Efectivo
+286,2025-09-28,Cinta métrica,Herramientas,7.0,15.0,Ana,La Molina,Efectivo
+287,2025-03-04,Brocha 3 pulgadas,Pinturas,1.0,12.5,Luis,San Luis,Transferencia
+288,2025-08-23,Llave inglesa,Herramientas,2.0,29.9,Ana,San Luis,Transferencia
+289,2025-01-09,Cinta métrica,Herramientas,11.0,15.0,Luis,Santa Anita,Tarjeta
+290,2025-01-01,foco led,Electricidad,10.0,9.9,María,Santa Anita,
+291,2025-04-06,Foco LED,Electricidad,11.0,9.9,Ana,La Molina,Efectivo
+292,2025-10-06,Cinta métrica,Herramientas,9.0,15.0,Ana,San Luis,Tarjeta
+293,2025-07-18,Martillo,Herramientas,6.0,18.5,María,Ate,Tarjeta
+294,2025-06-26,Taladro,Herramientas,4.0,185.0,Ana,La Molina,Efectivo
+295,2025-06-30,Martillo,Herramientas,9.0,18.5,María,Santa Anita,Transferencia
+296,2025-09-03,Candado,Seguridad,11.0,24.0,Luis,Santa Anita,Efectivo
+297,2025-08-23,Grifo,Plomería,1.0,48.0,María,Santa Anita,Efectivo
+298,2025-01-22,Pintura blanca 1 galón,Pinturas,6.0,65.0,María,San Luis,Transferencia
+299,2025-05-10,Candado,Seguridad,1.0,24.0,Luis,La Molina,Tarjeta
+300,2025-06-19,Martillo,Herramientas,5.0,18.5,Ana,La Molina,Tarjeta
+301,2025-08-14,Foco LED,Electricidad,7.0,9.9,María,Santa Anita,Tarjeta
+302,2025-09-12,Grifo,Plomería,6.0,48.0,María,Ate,Transferencia
+303,2025-02-10,Foco LED,Electricidad,7.0,9.9,Luis,La Molina,Tarjeta
+304,2025-02-10,Taladro,Herramientas,6.0,185.0,María,La Molina,Tarjeta
+305,2025-08-07,Llave inglesa,Herramientas,3.0,29.9,Carlos,La Molina,Tarjeta
+306,2025-06-30,Martillo,Herramientas,10.0,18.5,Carlos,La Molina,Transferencia
+307,2025-02-08,Martillo,Herramientas,11.0,18.5,Carlos,La Molina,Transferencia
+308,2025-03-23,Grifo,Plomería,1.0,48.0,Luis,San Luis,Efectivo
+309,2025-02-04,Tornillos (paquete),Fijaciones,4.0,8.9,María,La Molina,Tarjeta
+310,2025-01-17,Llave inglesa,Herramientas,10.0,29.9,Luis,San Luis,Tarjeta
+311,2025-08-16,Cable eléctrico 10 m,Electricidad,2.0,32.0,Luis,La Molina,Tarjeta
+312,2025-05-23,Cable eléctrico 10 m,Electricidad,4.0,32.0,Ana,Ate,Transferencia
+313,2025-09-13,Tornillos (paquete),Fijaciones,9.0,8.9,Carlos,Ate,Tarjeta
+314,2025-08-17,Brocha 3 pulgadas,Pinturas,4.0,12.5,María,San Luis,Efectivo
+315,2025-03-11,Taladro,Herramientas,2.0,185.0,Carlos,Santa Anita,Transferencia
+316,2025-02-14,Candado,Seguridad,11.0,24.0,María,La Molina,Transferencia
+317,2025-10-09,Taladro,Herramientas,9.0,185.0,María,La Molina,Efectivo
+318,2025-03-31,Grifo,Plomería,6.0,48.0,Luis,Ate,Efectivo
+319,2025-05-02,Tornillos (paquete),Fijaciones,8.0,8.9,Ana,La Molina,Transferencia
+320,2025-07-08,Llave inglesa,Herramientas,8.0,29.9,Luis,Ate,Efectivo
+321,2025-07-23,Brocha 3 pulgadas,Pinturas,12.0,12.5,Carlos,San Luis,Tarjeta
+322,2025-02-07,Llave inglesa,Herramientas,3.0,29.9,María,Ate,Tarjeta
+323,2025-09-22,Candado,Seguridad,6.0,24.0,Luis,Santa Anita,Efectivo
+324,2025-09-15,Foco LED,Electricidad,1.0,9.9,Ana,Santa Anita,Tarjeta
+325,2025-03-24,Tornillos (paquete),Fijaciones,6.0,8.9,Luis,La Molina,Transferencia
+326,2025-02-10,Brocha 3 pulgadas,Pinturas,5.0,12.5,Luis,La Molina,Efectivo
+327,2025-06-05,Tubo PVC,Plomería,10.0,14.5,Ana,Santa Anita,Transferencia
+328,2025-03-20,Llave inglesa,Herramientas,3.0,29.9,María,Ate,Efectivo
+329,2025-01-24,Taladro,Herramientas,11.0,185.0,María,Santa Anita,Transferencia
+330,2025-01-16,Foco LED,Electricidad,8.0,9.9,María,La Molina,Tarjeta
+331,2025-07-27,Pintura blanca 1 galón,Pinturas,5.0,65.0,Carlos,Ate,Transferencia
+332,2025-03-22,Martillo,Herramientas,8.0,18.5,Carlos,San Luis,Tarjeta
+333,2025-06-24,Pintura blanca 1 galón,Pinturas,10.0,65.0,Luis,La Molina,Transferencia
+334,2025-06-26,Cable eléctrico 10 m,Electricidad,7.0,32.0,Luis,La Molina,Transferencia
+335,2025-02-24,Cinta métrica,Herramientas,6.0,15.0,Luis,San Luis,Efectivo
+336,2025-08-19,Brocha 3 pulgadas,Pinturas,4.0,12.5,Luis,Ate,Efectivo
+337,2025-07-16,Brocha 3 pulgadas,Pinturas,10.0,12.5,Carlos,Santa Anita,Efectivo
+338,2025-10-23,Cable eléctrico 10 m,Electricidad,12.0,32.0,María,Santa Anita,Efectivo
+339,2025-09-21,Candado,Seguridad,8.0,24.0,Carlos,La Molina,Tarjeta
+340,2025-02-16,Martillo,Herramientas,7.0,18.5,Carlos,Santa Anita,Efectivo
+341,2025-06-30,Llave inglesa,Herramientas,1.0,29.9,Ana,La Molina,Tarjeta
+342,2025-08-29,Llave inglesa,Herramientas,5.0,29.9,Ana,Ate,Tarjeta
+343,2025-05-16,Tornillos (paquete),Fijaciones,12.0,8.9,María,San Luis,Tarjeta
+344,2025-07-25,Martillo,Herramientas,1.0,18.5,Luis,La Molina,Transferencia
+345,2025-02-07,Brocha 3 pulgadas,Pinturas,7.0,12.5,Carlos,La Molina,Transferencia
+346,2025-03-02,Tubo PVC,Plomería,3.0,14.5,Ana,San Luis,Tarjeta
+347,2025-10-13,Cable eléctrico 10 m,Electricidad,6.0,32.0,Luis,Santa Anita,Transferencia
+348,2025-07-25,Cinta métrica,Herramientas,9.0,15.0,Ana,Ate,Efectivo
+349,2025-06-20,Tornillos (paquete),Fijaciones,8.0,8.9,Carlos,Santa Anita,Transferencia
+350,2025-03-13,Cinta métrica,Herramientas,6.0,15.0,María,Santa Anita,Tarjeta
+351,2025-06-03,Llave inglesa,Herramientas,10.0,29.9,María,San Luis,Transferencia
+352,2025-06-03,Llave inglesa,Herramientas,8.0,29.9,Ana,La Molina,Tarjeta
+353,2025-02-26,Tubo PVC,Plomería,7.0,14.5,María,Ate,Transferencia
+354,2025-05-16,Candado,Seguridad,11.0,24.0,Luis,Ate,Transferencia
+355,2025-03-29,Candado,Seguridad,9.0,24.0,Carlos,Santa Anita,Transferencia
+356,2025-01-17,Pintura blanca 1 galón,Pinturas,10.0,65.0,Ana,Santa Anita,Efectivo
+357,2025-06-10,Candado,Seguridad,7.0,24.0,Luis,San Luis,Transferencia
+358,2025-07-30,Pintura blanca 1 galón,Pinturas,9.0,65.0,Carlos,Ate,Transferencia
+359,2025-09-23,Tornillos (paquete),Fijaciones,4.0,8.9,María,San Luis,Transferencia
+360,2025-06-10,Foco LED,Electricidad,3.0,9.9,Carlos,La Molina,Transferencia
+361,2025-05-16,Cable eléctrico 10 m,Electricidad,10.0,32.0,Carlos,Santa Anita,Efectivo
+362,2025-10-13,Brocha 3 pulgadas,Pinturas,5.0,12.5,Luis,La Molina,Tarjeta
+363,2025-04-17,Grifo,Plomería,12.0,48.0,Carlos,La Molina,Tarjeta
+364,2025-10-14,Cable eléctrico 10 m,Electricidad,12.0,32.0,,La Molina,Efectivo
+365,2025-10-06,Llave inglesa,Herramientas,7.0,29.9,Carlos,La Molina,Efectivo
+366,2025-01-22,Brocha 3 pulgadas,Pinturas,5.0,12.5,Ana,La Molina,Tarjeta
+367,2025-05-12,Tubo PVC,Plomería,12.0,14.5,Carlos,Santa Anita,Efectivo
+368,2025-05-19,Cinta métrica,Herramientas,9.0,15.0,María,Santa Anita,Efectivo
+369,2025-05-03,Llave inglesa,Herramientas,4.0,29.9,Ana,Santa Anita,Transferencia
+370,2025-01-27,Pintura blanca 1 galón,Pinturas,2.0,65.0,Carlos,La Molina,Transferencia
+371,2025-02-21,Candado,Seguridad,11.0,24.0,Luis,Ate,Transferencia
+372,2025-07-28,Tornillos (paquete),Fijaciones,11.0,8.9,Carlos,San Luis,Transferencia
+373,2025-05-28,Pintura blanca 1 galón,Pinturas,6.0,65.0,María,Ate,Efectivo
+374,2025-10-21,Tubo PVC,Plomería,4.0,14.5,Ana,Santa Anita,Tarjeta
+375,2025-01-19,Tornillos (paquete),Fijaciones,7.0,8.9,Carlos,Santa Anita,Transferencia
+376,2025-01-20,Brocha 3 pulgadas,Pinturas,1.0,12.5,María,Ate,Tarjeta
+377,2025-08-21,Brocha 3 pulgadas,Pinturas,11.0,12.5,Carlos,Santa Anita,Transferencia
+378,2025-05-20,Candado,Seguridad,4.0,24.0,Ana,La Molina,Efectivo
+379,2025-08-23,Grifo,Plomería,11.0,48.0,María,Santa Anita,Efectivo
+380,2025-06-22,Grifo,Plomería,5.0,48.0,Luis,Santa Anita,Transferencia
+381,2025-07-27,Tubo PVC,Plomería,7.0,-14.5,María,Ate,Tarjeta
+382,2025-02-18,Tubo PVC,Plomería,3.0,14.5,Luis,San Luis,Tarjeta
+383,2025-01-04,Pintura blanca 1 galón,Pinturas,5.0,65.0,Carlos,Santa Anita,Tarjeta
+384,2025-06-18,Brocha 3 pulgadas,Pinturas,5.0,12.5,Ana,La Molina,Transferencia
+385,2025-05-01,Cable eléctrico 10 m,Electricidad,1.0,32.0,Ana,San Luis,Tarjeta
+386,2025-07-27,Tornillos (paquete),Fijaciones,11.0,8.9,María,Ate,Transferencia
+387,2025-07-08,Brocha 3 pulgadas,Pinturas,10.0,12.5,Luis,Santa Anita,Efectivo
+388,2025-03-20,Candado,Seguridad,8.0,24.0,María,San Luis,Transferencia
+389,2025-08-30,Cinta métrica,Herramientas,9.0,15.0,Luis,Santa Anita,Transferencia
+390,2025-02-11,Llave inglesa,Herramientas,9.0,29.9,Carlos,La Molina,
+391,2025-02-27,Llave inglesa,Herramientas,1.0,29.9,Luis,Santa Anita,Efectivo
+392,2025-09-24,Cable eléctrico 10 m,Electricidad,8.0,32.0,Ana,Santa Anita,Transferencia
+393,2025-09-08,Llave inglesa,Herramientas,2.0,-29.9,Carlos,Ate,Tarjeta
+394,2025-09-20,Tornillos (paquete),Fijaciones,7.0,8.9,Carlos,Ate,Transferencia
+395,2025-06-07,Candado,Seguridad,12.0,24.0,Ana,San Luis,Tarjeta
+396,2025-04-22,Martillo,Herramientas,10.0,-18.5,Ana,Ate,Tarjeta
+397,2025-02-02,Cable eléctrico 10 m,Electricidad,9.0,32.0,Ana,Ate,Tarjeta
+398,2025-05-27,Martillo,Herramientas,7.0,18.5,Luis,Santa Anita,Transferencia
+399,2025-08-04,Grifo,Plomería,6.0,48.0,Carlos,San Luis,Tarjeta
+400,2025-02-11,foco led,Electricidad,11.0,9.9,Luis,La Molina,Efectivo
+401,2025-10-03,Tornillos (paquete),Fijaciones,7.0,8.9,Luis,Santa Anita,Efectivo
+402,2025-06-02,Martillo,Herramientas,8.0,18.5,Carlos,San Luis,Efectivo
+403,2025-08-24,Pintura blanca 1 galón,Pinturas,6.0,65.0,Luis,La Molina,Efectivo
+404,2025-02-27,Grifo,Plomería,1.0,48.0,Carlos,Ate,Efectivo
+405,2025-02-04,Pintura blanca 1 galón,Pinturas,2.0,65.0,Ana,San Luis,Transferencia
+406,2025-01-25,Tubo PVC,Plomería,4.0,14.5,Ana,San Luis,Tarjeta
+407,2025-10-04,Pintura blanca 1 galón,Pinturas,4.0,65.0,Ana,Santa Anita,Transferencia
+408,2025-04-30,Brocha 3 pulgadas,Pinturas,12.0,12.5,María,La Molina,
+409,2025-03-15,Brocha 3 pulgadas,Pinturas,11.0,12.5,Luis,San Luis,Tarjeta
+410,2025-02-01,Brocha 3 pulgadas,Pinturas,9.0,12.5,Luis,San Luis,Transferencia
+411,2025-01-25,Candado,Seguridad,6.0,24.0,Carlos,La Molina,Transferencia
+412,2025-07-29,Foco LED,Electricidad,3.0,9.9,María,San Luis,Efectivo
+413,2025-08-31,Cinta métrica,Herramientas,4.0,15.0,Luis,La Molina,Transferencia
+414,2025-08-26,Tornillos (paquete),Fijaciones,1.0,8.9,Carlos,San Luis,Transferencia
+415,2025-03-10,Cinta métrica,Herramientas,7.0,15.0,Luis,La Molina,Efectivo
+416,2025-02-10,Cable eléctrico 10 m,Electricidad,8.0,32.0,María,Ate,Transferencia
+417,2025-04-08,Grifo,Plomería,1.0,48.0,María,San Luis,Transferencia
+418,2025-01-21,Llave inglesa,Herramientas,2.0,29.9,Luis,Santa Anita,Tarjeta
+419,2025-06-20,Pintura blanca 1 galón,Pinturas,5.0,65.0,Ana,Santa Anita,Efectivo
+420,2025-03-02,Grifo,Plomería,12.0,48.0,Carlos,Santa Anita,Transferencia
+421,2025-04-15,Llave inglesa,Herramientas,7.0,29.9,Luis,La Molina,Tarjeta
+422,2025-08-27,Foco LED,Electricidad,9.0,9.9,María,La Molina,Tarjeta
+423,2025-09-20,Cable eléctrico 10 m,Electricidad,8.0,32.0,Carlos,Ate,Transferencia
+424,2025-06-13,Candado,Seguridad,4.0,24.0,María,La Molina,Tarjeta
+425,2025-10-16,Martillo,Herramientas,4.0,18.5,Luis,Ate,Tarjeta
+426,2025-10-27,Cinta métrica,Herramientas,10.0,15.0,Carlos,La Molina,Efectivo
+427,2025-06-18,Pintura blanca 1 galón,Pinturas,4.0,65.0,Carlos,Santa Anita,Tarjeta
+428,2025-06-22,Cinta métrica,Herramientas,5.0,15.0,Carlos,San Luis,Tarjeta
+429,2025-06-30,Tornillos (paquete),Fijaciones,3.0,8.9,Luis,San Luis,Efectivo
+430,2025-01-31,Cinta métrica,Herramientas,9.0,15.0,Ana,Ate,Transferencia
+431,2025-01-04,Martillo,Herramientas,7.0,18.5,,Santa Anita,Efectivo
+432,2025-03-19,Grifo,Plomería,1.0,48.0,Luis,San Luis,Tarjeta
+433,2025-09-05,Martillo,Herramientas,11.0,18.5,Carlos,Ate,Efectivo
+434,2025-10-10,Cinta métrica,Herramientas,7.0,15.0,Ana,Ate,Transferencia
+435,2025-05-21,Grifo,Plomería,9.0,48.0,María,Ate,Transferencia
+436,2025-08-09,Grifo,Plomería,3.0,48.0,Ana,Ate,Transferencia
+437,2025-05-04,Tornillos (paquete),Fijaciones,4.0,8.9,María,La Molina,Tarjeta
+438,2025-02-10,Foco LED,Electricidad,6.0,9.9,Carlos,San Luis,Transferencia
+439,2025-04-26,Pintura blanca 1 galón,Pinturas,5.0,65.0,Ana,Ate,Efectivo
+440,2025-07-14,Foco LED,Electricidad,7.0,9.9,Carlos,Ate,Transferencia
+441,2025-03-29,Martillo,Herramientas,2.0,18.5,Carlos,San Luis,Transferencia
+442,2025-10-17,Cable eléctrico 10 m,Electricidad,2.0,32.0,Ana,Santa Anita,Efectivo
+443,2025-10-18,Grifo,Plomería,8.0,48.0,María,Ate,Efectivo
+444,2025-05-24,Tubo PVC,Plomería,9.0,14.5,Ana,Santa Anita,Tarjeta
+445,2025-04-17,Martillo,Herramientas,10.0,18.5,Luis,San Luis,Efectivo
+446,2025-03-25,Brocha 3 pulgadas,Pinturas,10.0,12.5,Luis,San Luis,Transferencia
+447,2025-06-19,Cinta métrica,Herramientas,7.0,15.0,Luis,Ate,Transferencia
+448,2025-06-27,Grifo,Plomería,1.0,48.0,Ana,San Luis,Efectivo
+449,2025-06-24,Taladro,Herramientas,10.0,185.0,Carlos,La Molina,Efectivo
+450,2025-05-20,Tubo PVC,Plomería,8.0,14.5,Carlos,Santa Anita,Tarjeta
+451,2025-07-12,Cinta métrica,Herramientas,7.0,15.0,Luis,San Luis,Efectivo
+452,2025-06-01,Llave inglesa,Herramientas,4.0,29.9,Ana,Ate,Tarjeta
+453,2025-07-14,Tornillos (paquete),Fijaciones,12.0,8.9,Luis,San Luis,Tarjeta
+454,2025-02-24,Cable eléctrico 10 m,Electricidad,2.0,32.0,Ana,La Molina,Tarjeta
+455,2025-05-19,Cable eléctrico 10 m,Electricidad,2.0,32.0,Luis,Ate,Efectivo
+456,2025-08-18,Foco LED,Electricidad,9.0,9.9,Carlos,Ate,Efectivo
+457,2025-07-01,Taladro,Herramientas,9.0,185.0,Ana,La Molina,Tarjeta
+458,2025-05-30,Martillo,Herramientas,7.0,18.5,Carlos,Ate,Transferencia
+459,2025-05-05,Cinta métrica,Herramientas,10.0,15.0,Luis,San Luis,Efectivo
+460,2025-05-18,Tornillos (paquete),Fijaciones,5.0,8.9,María,San Luis,Efectivo
+461,2025-03-27,Taladro,Herramientas,7.0,185.0,María,San Luis,Tarjeta
+462,2025-02-09,Candado,Seguridad,6.0,24.0,María,Santa Anita,Transferencia
+463,2025-09-11,Tubo PVC,Plomería,10.0,14.5,Luis,San Luis,Efectivo
+464,2025-06-05,Tornillos (paquete),Fijaciones,1.0,8.9,Carlos,La Molina,Transferencia
+465,2025-06-18,Foco LED,Electricidad,8.0,9.9,María,San Luis,Transferencia
+466,2025-03-11,Llave inglesa,Herramientas,5.0,29.9,María,Santa Anita,Tarjeta
+467,2025-04-01,Cable eléctrico 10 m,Electricidad,7.0,32.0,María,La Molina,Transferencia
+468,2025-09-09,Grifo,Plomería,10.0,48.0,Luis,La Molina,Tarjeta
+469,2025-07-21,Brocha 3 pulgadas,Pinturas,6.0,12.5,Ana,Santa Anita,Transferencia
+470,2025-04-03,Cinta métrica,Herramientas,11.0,15.0,Ana,San Luis,Transferencia
+471,2025-08-13,Pintura blanca 1 galón,Pinturas,5.0,65.0,Ana,San Luis,Transferencia
+472,2025-03-13,Candado,Seguridad,11.0,24.0,María,Santa Anita,Tarjeta
+473,2025-03-20,Tubo PVC,Plomería,12.0,14.5,Carlos,San Luis,Efectivo
+474,2025-09-03,Candado,Seguridad,10.0,24.0,Carlos,San Luis,Transferencia
+475,2025-07-04,Martillo,Herramientas,12.0,18.5,Ana,Ate,Efectivo
+476,2025-07-01,Tubo PVC,Plomería,3.0,14.5,Ana,San Luis,Tarjeta
+477,2025-02-24,Foco LED,Electricidad,1.0,9.9,Ana,La Molina,Efectivo
+478,2025-09-23,Cinta métrica,Herramientas,9.0,15.0,Luis,San Luis,Tarjeta
+479,2025-08-26,Foco LED,Electricidad,11.0,9.9,Luis,La Molina,Efectivo
+480,2025-02-23,Candado,Seguridad,5.0,24.0,Carlos,Ate,Efectivo
+481,2025-03-14,Grifo,Plomería,6.0,48.0,María,La Molina,Tarjeta
+482,2025-09-24,Pintura blanca 1 galón,Pinturas,8.0,65.0,María,San Luis,Efectivo
+483,2025-08-20,Candado,Seguridad,6.0,24.0,Ana,La Molina,Efectivo
+484,2025-02-28,Grifo,Plomería,1.0,48.0,María,Ate,Transferencia
+485,2025-05-05,Tornillos (paquete),Fijaciones,9.0,8.9,Luis,Santa Anita,Tarjeta
+486,2025-08-07,Cinta métrica,Herramientas,8.0,15.0,Luis,San Luis,Transferencia
+487,2025-04-06,Tornillos (paquete),Fijaciones,11.0,8.9,Carlos,San Luis,Efectivo
+488,2025-04-12,Grifo,Plomería,8.0,48.0,Carlos,San Luis,Efectivo
+489,2025-04-20,Grifo,Plomería,4.0,48.0,María,Ate,Transferencia
+490,2025-10-02,Taladro,Herramientas,3.0,185.0,María,La Molina,Efectivo
+491,2025-02-28,Candado,Seguridad,5.0,24.0,Carlos,La Molina,Transferencia
+492,2025-07-20,Foco LED,Electricidad,10.0,9.9,Ana,La Molina,Tarjeta
+493,2025-03-30,Candado,Seguridad,11.0,24.0,María,Ate,Transferencia
+494,2025-06-10,Tornillos (paquete),Fijaciones,2.0,8.9,Luis,La Molina,Efectivo
+495,2025-07-11,Tornillos (paquete),Fijaciones,12.0,8.9,Luis,San Luis,Tarjeta
+496,2025-03-12,Llave inglesa,Herramientas,10.0,29.9,Carlos,San Luis,Efectivo
+497,2025-10-03,Candado,Seguridad,12.0,24.0,Luis,Santa Anita,Tarjeta
+498,2025-03-13,Brocha 3 pulgadas,Pinturas,3.0,12.5,María,San Luis,Transferencia
+499,2025-07-03,Martillo,Herramientas,1.0,18.5,Carlos,Santa Anita,Efectivo
+500,2025-10-15,Foco LED,Electricidad,9.0,9.9,Carlos,San Luis,Transferencia
+32,2025-02-02,Pintura blanca 1 galón,Pinturas,6.0,65.0,Ana,Santa Anita,Transferencia
+143,2025-04-26,Cinta métrica,Herramientas,11.0,15.0,Luis,La Molina,Efectivo
